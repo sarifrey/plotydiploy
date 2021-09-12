@@ -1,0 +1,9 @@
+body {
+  background-color: lightgrey;
+}
+
+.jumbotron {
+    background-image: url("../images/Belly_Button_Types_Shapes_Sizes.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
